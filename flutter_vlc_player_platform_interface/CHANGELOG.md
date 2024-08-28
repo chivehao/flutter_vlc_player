@@ -1,3 +1,7 @@
+## 2.0.4
+
+- Fix stack over issue in android
+
 ## 2.0.3
 
 - Fix http-user-agent. Credits: @afriza
